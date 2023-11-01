@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Ngoding100daysH_24 {
 
-   //bilangan yang menyatakan ganjil genap cara 1
+   
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
